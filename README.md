@@ -11,7 +11,7 @@ _B.A. in Mathematics from DePauw University._
 [Live Site](https://zmtoptimization.pythonanywhere.com/)  
 A web app to help you optimize your Malatang (Chinese hotpot) bowl for the best taste and nutrition. Input your favorite ingredients and get the perfect mix!  
 **Metrics:** Used by 500 people monthly.  
-**Tech:** Flask backend, Tailwind CSS frontend, deployed on PythonAnywhere.
+**Tech:** Python backend using Flask and PuLP (for linear programming/optimization), data compiled from USDA and DoorDash, lightweight web UI, deployed on PythonAnywhere with Anaconda.
 
 ---
 
@@ -26,7 +26,7 @@ A tool to make YouTube less distracting and more productive. Hide recommendation
 ### [Ai Web Terminal (Private Repo)](https://github.com/SapalChap/AiWebTerminal)  
 [Live Site](https://aiwebterminal.onrender.com/)  
 _Work in progress._ An AI-powered web terminal that lets you use different GPTs like a Linux-based terminal—making AI interaction fast and intuitive.  
-**Tech:** Uses OpenRouter API, Supabase database, deployed on Render.
+**Tech:** Python backend to run APIs, OpenRouter API, Supabase database, deployed on Render.
 
 ---
 

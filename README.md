@@ -18,7 +18,7 @@ A web app to help you optimize your Malatang (Chinese hotpot) bowl for the best 
 ### [MakeYoutubeBoring](https://github.com/SapalChap/MakeYoutubeBoring)  
 [Chrome Extension](https://chromewebstore.google.com/detail/makeyoutubeboring/nflljpfpgaoignmlgalipgmkjhimlmfb?authuser=0&hl=en) | [Website](https://sapalchap.github.io/MakeYoutubeBoringWebsite/#)  
 A tool to make YouTube less distracting and more productive. Hide recommendations and unnecessary features so you can focus on what matters.  
-**Metrics:** 8 daily active users on the Chrome Extension.  
+**Metrics:** 8 daily active users on the Chrome Extension. Rated 5/5 on the extension store.
 **Tech:** Flask backend, HTML, JavaScript, CSS, Supabase backend, deployed on Vercel.
 
 ---
